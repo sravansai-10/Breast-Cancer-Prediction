@@ -33,7 +33,6 @@ Repository Structure
 Copy
 Edit
 ├─ Breast‑Cancer‑Prediction.ipynb
-├─ breast_cancer_prediction.py
 ├─ requirements.txt
 ├─ artifacts/
 │    ├─ roc_curve.png
