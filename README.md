@@ -15,14 +15,6 @@ Evaluation assets           –    confusion‑matrix and ROC‑curve images sav
 Model interpretability      –    optional SHAP summary plot of feature importance.
 Ready for reuse             –    standalone script (`breast_cancer_prediction.py`) and interactive notebook.
 
-## Quick Start
-```bash
-git clone https://github.com/<username>/breast-cancer-prediction.git
-cd breast-cancer-prediction
-pip install -r requirements.txt
-jupyter notebook Breast‑Cancer‑Prediction.ipynb   # walkthrough
-# or retrain via CLI:
-python breast_cancer_prediction.py --mode train --data wdbc.data
 
 Results (held‑out test set)
 Metric	Score
@@ -42,3 +34,7 @@ Edit
 └─ LICENSE
 Dataset
 Breast‑Cancer Wisconsin Diagnostic (WDBC) – 569 samples, 30 numeric features. Source: UCI Machine Learning Repository.
+MIT License
+Copyright © 2025 Sravan Sai Methuku
+Released under the MIT License – see LICENSE for details.
+
